@@ -121,6 +121,9 @@ h1{
     .plan-text-left{
         column-gap: 8px;
     }
+    .plan-text-left img{
+        width: 30px;
+    }
     .pricing{
         row-gap: 2px;
     }
